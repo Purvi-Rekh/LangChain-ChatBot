@@ -5,7 +5,7 @@ Using Langchain and OpenAI to careet a chatbot
     - LANGCHAIN_API_KEY
     - OPENAI_API_KEY
     - LANGCHAIN_PROJECT="Langchain_chatbot"
-- pip install -r requirements.txt
+- Create a file requirements.txt and put following library names and run pip install -r requirements.txt
     - openai
     - langchain
     - streamlit
